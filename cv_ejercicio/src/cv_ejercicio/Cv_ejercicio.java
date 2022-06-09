@@ -10,6 +10,10 @@ public class Cv_ejercicio {
         System.out.println("versión 1");
         System.out.println("versión 2");
         System.out.println("versión 3");
+        System.out.println("versión 4");
+        System.out.println("versión 5");
+        System.out.println("versión 6");
+        System.out.println("versión 7");
     }
     
 }
